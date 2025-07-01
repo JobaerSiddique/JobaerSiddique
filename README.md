@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm a passionate Full Stack Web Developer with expertise in building modern web applications. I love turning ideas into reality through clean, efficient code and intuitive user interfaces.<br><br>- 🔭 I’m currently working on [Multi-channel-store-Management]<br>- 👯 I’m looking to collaborate on open source projects<br>- 💬 Ask me about web development, JavaScript, or tech in general<br>
+<br>I'm a passionate Full Stack Web Developer with expertise in building modern web applications. I love turning ideas into reality through clean, efficient code and intuitive user interfaces.<br><br>- 🔭 I’m currently working on Multi-channel-store-Management<br>- 👯 I’m looking to collaborate on open source projects<br>- 💬 Ask me about web development, JavaScript, or tech in general<br>
 
 
 ## 🌐 Socials:
