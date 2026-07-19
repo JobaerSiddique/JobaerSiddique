@@ -2,7 +2,7 @@
 Hi! I'm **Jobaer Siddique**, a passionate **Full Stack Web Developer** from Bangladesh.  
 I love building modern web applications using **Next.js, React, Tailwind CSS, Node.js**, and the **MERN stack**. I turn ideas into reality through clean, efficient code and intuitive user interfaces.
 
-- 🔭 Currently working on: **Project Management with Flexbit solutions**  
+- 🔭 Currently working on: **Multi Tenants school Managment system**  
 - 👯 Open to collaboration on **open source projects**  
 - 💬 Ask me about **web development, JavaScript, or tech in general**  
 - 🌐 Portfolio: [https://www.jobaer-dev.com](https://www.jobaer-dev.com)
